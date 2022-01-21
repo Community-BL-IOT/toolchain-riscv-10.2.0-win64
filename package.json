@@ -12,7 +12,9 @@
   ],
   "license": "GPL-2.0-or-later",
   "system": [
-    "windws_amd64"
+    "windows",
+    "windows_x86",
+    "windows_amd64"
   ],
   "repository": {
     "type": "git",
