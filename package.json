@@ -16,6 +16,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsaiko/toolchain-riscv-10.2.0-win64.git"
+    "url": "https://github.com/Community-BL-IOT/toolchain-riscv-10.2.0-win64"
   }
 }
